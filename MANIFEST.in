@@ -1,1 +1,1 @@
-recursive-include flask_perm *.py *.html *.css *.js *.pot *.mo *.po
+recursive-include flask_personal_access_token *.py *.html *.css *.js *.pot *.mo *.po

@@ -1,5 +1,5 @@
 """
-A permission flask extension inspired by Django.
+Flask Personal Access Token Managerment Extension.
 """
 
 from setuptools import setup
@@ -7,12 +7,12 @@ from setuptools import setup
 
 setup(
     name='Flask-Personal-Access-Token',
-    version='0.1.0',
+    version='0.1.1',
     url='https://github.com/soasme/flask-personal-access-token',
     license='MIT',
     author='Ju Lin',
     author_email='soasme@gmail.com',
-    description='Flask Personnal Access Token Management Extension',
+    description='Flask Personal Access Token Management Extension',
     long_description=__doc__,
     packages=['flask_personal_access_token'],
     zip_safe=False,
